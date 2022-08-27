@@ -75,6 +75,6 @@
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="/img/pytorch.png" alt="go" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="/img/keras.png" alt="go" width="40" height="40"/> </a>
 </p>
